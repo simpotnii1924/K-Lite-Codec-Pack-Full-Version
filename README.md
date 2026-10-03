@@ -243,4 +243,4 @@ This repository serves as the official landing page for K-Lite Codec Pack. The s
 **Get the most recent version of K-Lite Codec Pack today!**
 
 ---
-**Last updated:** 2026-10-02 22:48:33 UTC
+**Last updated:** 2026-10-03 01:40:58 UTC
